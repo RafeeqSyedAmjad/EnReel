@@ -7,7 +7,7 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import './Login.css';
-import Instagram from '../Assets/Instagram.JPG'
+import Instagram from '../Assets/ENREEL.png'
 import { createUseStyles } from 'react-jss';
 import Alert from '@mui/material/Alert';
 // import { border } from '@mui/system';
@@ -21,7 +21,6 @@ import bg from '../Assets/insta.png'
 import img1 from '../Assets/img1.jpg';
 import img2 from '../Assets/img2.jpg';
 import img3 from '../Assets/img3.jpg';
-import img4 from '../Assets/img4.jpg';
 import img5 from '../Assets/img5.jpg';
 import { AuthContext } from '../Context/AuthContext';
 
@@ -79,9 +78,6 @@ export default function Login() {
                         </div>
                         <div>
                             <img src={img3} alt="" />
-                        </div>
-                        <div>
-                            <img src={img4} alt="" />
                         </div>
                         <div>
                             <img src={img5} alt="" />

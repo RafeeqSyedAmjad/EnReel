@@ -7,7 +7,7 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import './Signup.css';
-import Instagram from '../Assets/Instagram.JPG'
+import Instagram from '../Assets/ENREEL.png'
 import { createUseStyles } from 'react-jss';
 import Alert from '@mui/material/Alert';
 // import { border } from '@mui/system';
@@ -100,7 +100,7 @@ export default function Signup() {
                     </div>
                     <CardContent>
                         <Typography className={classes.text1} variant="subtitle1">
-                            Sign up to see photos and videos from your friends... GoodLuck!!
+                            Sign up to see videos from your friends... GoodLuck!!
                         </Typography>
                         {error !== '' && <Alert severity="error">{error}</Alert>}
                         <TextField id="outlined-basic" label="Email" variant="outlined" fullWidth={true} margin="dense" size="small" value={email} onChange={(e) => setEmail(e.target.value)} />

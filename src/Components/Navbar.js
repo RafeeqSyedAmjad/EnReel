@@ -18,9 +18,9 @@ import MoreIcon from '@mui/icons-material/MoreVert';
 import AccountCircleIcon from '@mui/icons-material/AccountCircle';
 import ExitToAppIcon from '@mui/icons-material/ExitToApp';
 import { useNavigate } from 'react-router-dom';
-import { AuthContext } from '../Context/AuthContext'
+import { AuthContext } from '../Context/AuthContext';
 import { createUseStyles } from 'react-jss';
-import insta from '../Assets/Instagram.JPG';
+import insta from '../Assets/ENREEL1.png';
 import HomeIcon from '@mui/icons-material/Home';
 import ExploreIcon from '@mui/icons-material/Explore';
 import Avatar from '@mui/material/Avatar';
@@ -68,7 +68,7 @@ export default function Navbar({ userData }) {
         navigate('/login')
     }
     const handleexplore = () => {
-        let win = window.open('https://www.pepcoding.com', '_blank');
+        let win = window.open('https://www.linkedin.com/in/rafeeqsyedamjad/', '_blank');
         win.focus();
     }
     const menuId = 'primary-search-account-menu';
