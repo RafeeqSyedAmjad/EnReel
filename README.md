@@ -12,7 +12,12 @@ In this app, user can make their profile, upload a reel/video and can view other
 
 ## Screenshots
 
-<!-- ![Thumbnail](https://user-images.githubusercontent.com/64955243/200680675-13c8e283-7e9b-4dbf-b671-1215823681ae.png) -->
+![signup page](https://user-images.githubusercontent.com/64955243/203927052-af88fb51-df46-49fc-aa55-b265d5b87d8f.png)
+![Login page](https://user-images.githubusercontent.com/64955243/203927083-00342837-179e-4199-b922-b46f87324596.png)
+![Home page](https://user-images.githubusercontent.com/64955243/203927104-83458ba3-ce58-4ba1-b4f4-48e3c307f8cf.png)
+![Comments page](https://user-images.githubusercontent.com/64955243/203927108-52c38362-3bc5-4b3e-8714-06806748c57c.png)
+![Profile page](https://user-images.githubusercontent.com/64955243/203927121-f220c156-f4b2-4bf9-9b8e-1d91544f10ad.png)
+
 
 
 Demo🚀
